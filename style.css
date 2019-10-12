@@ -220,7 +220,7 @@ h4 {
   display: inline-block;
   margin: 7px;
   padding: 5px 10px;
-  color: white;
+  color: #ffffff; /*white*/
   background: #3498db;
   list-style: none;
   cursor: default;
