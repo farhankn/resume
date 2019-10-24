@@ -4,4 +4,4 @@
 
 See this resume online [here](https://farhankn.github.io/)
 
-####Thanks to [Brandon Morelli](https://github.com/bmorelli25/portfolio-template)
+#### Thanks to [Brandon Morelli](https://github.com/bmorelli25/portfolio-template)
