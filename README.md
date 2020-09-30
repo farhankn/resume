@@ -1,4 +1,4 @@
-# Mohammed Farhan Resume and Portfolio
+#  Resume and Portfolio of Mohammed Farhan
 
 ![](https://github.com/sreehari1997/farhankn.github.io/blob/master/res/webme.png)
 
